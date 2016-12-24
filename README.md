@@ -1,2 +1,2 @@
 # DeepLearningMaster
-MASTER IN FOUNDATIONS OF DATA SCIENCE: Deep Learning.
+## MASTER IN FOUNDATIONS OF DATA SCIENCE: Deep Learning.
