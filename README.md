@@ -9,18 +9,26 @@ This repository contains notebooks used in DEEP LEARNING COURSE of the MASTER OF
 
 ## Course Agenda
 
-<li> Introduction to Deep Learning and its applications. Using the Jupyter notebook & Docker.
-<li> Basic Concepts: Score & Loss functions, Optimization (SGD), Linear Regression.
-<li> Automated differentiation, Backpropagation, Training a Neural Netwotk from Scratch.
-<li> Tensorflow programming model. Keras & TFLearn. 
-<li> Convolutions & CNN models.
-<li> Recurrent Neural Netwoks.
-<li> Unsupervised Learning.
-<li> Advanced Applications: Time Series, Recommenders, Natural Language.
+<li> Feb, 14: Introduction to Deep Learning and its applications. Using the Jupyter notebook & Docker.
+<li> Feb, 21: Basic Concepts: Score & Loss functions, Optimization (SGD), Linear Regression.
+<li> Feb, 28: Automated differentiation, Backpropagation, Training a Neural Netwotk from Scratch.
+<li> March, 7: Tensorflow programming model. Keras & TFLearn. 
+<li> March, 14: Convolutions & CNN models.
+<li> March, 21: Recurrent Neural Netwoks.
+<li> March, 28: Unsupervised Learning.
+<li> April, 4: Advanced Applications: Time Series, Recommenders, Natural Language.
+<li> April, 18: 
+<li> April, 25: 
+<li> May, 2: 
+<li> May, 9: 
+<li> May, 16: 
+<li> May, 23: 
+<li> May, 30: 
+
 
 ## Course Software Installation
 
-The best way to run the course software is to use a Docker container. There’s full documentation on installing Docker at ``docker.com``, but in a few words, the steps are:
+The best way to run the course software is to use a **Docker container**. There’s full documentation on installing Docker at ``docker.com``, but in a few words, the steps are:
 
 + Go to ``docs.docker.com`` in your browser.
 + Step one of the instructions sends you to download Docker.
