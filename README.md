@@ -9,21 +9,21 @@ This repository contains notebooks used in DEEP LEARNING COURSE of the MASTER OF
 
 ## Course Agenda
 
-<li> Feb, 14: Introduction to Deep Learning and its applications. Using the Jupyter notebook & Docker.
-<li> Feb, 21: Basic Concepts: Score & Loss functions, Optimization (SGD), Linear Regression.
-<li> Feb, 28: Automated differentiation, Backpropagation, Training a Neural Netwotk from Scratch.
-<li> March, 7: Tensorflow programming model. Keras & TFLearn. 
-<li> March, 14: Convolutions & CNN models.
-<li> March, 21: Recurrent Neural Netwoks.
-<li> March, 28: Unsupervised Learning.
-<li> April, 4: Advanced Applications: Time Series, Recommenders, Natural Language.
+<li> Feb, 14: Introduction to Deep Learning and its applications. Using the Jupyter notebook & Docker. Software stack.
+<li> Feb, 21: Basic Concepts: Score & Loss functions, SGD-based Optimization.
+<li> Feb, 28: Automated differentiation & Backpropagation, Training a Neural Netwotk from Scratch.
+<li> March, 7: Tensorflow programming model. 
+<li> March, 14: Tensorflow ecosystem: Keras, TFLearn, Slim, Edward. 
+<li> March, 21: Recurrent Neural Netwoks I.
+<li> March, 28: Convolutions & CNN models I.
+<li> April, 4: 
 <li> April, 18: 
 <li> April, 25: 
 <li> May, 2: 
 <li> May, 9: 
-<li> May, 16: 
-<li> May, 23: 
-<li> May, 30: 
+<li> May, 16: Convolutions & CNN models.
+<li> May, 23: Unsupervised Learning.
+<li> May, 30: Advanced Applications: Time Series, Recommenders, Natural Language.
 
 
 ## Course Software Installation
