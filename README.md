@@ -19,8 +19,8 @@ This repository contains notebooks used in DEEP LEARNING COURSE of the MASTER OF
 <li> April, 4: 
 <li> April, 18: 
 <li> April, 25: 
-<li> May, 2: 
-<li> May, 9: 
+<li> May, 2: Embeddings
+<li> May, 9: Reinformcement Learning
 <li> May, 16: Convolutions & CNN models.
 <li> May, 23: Unsupervised Learning.
 <li> May, 30: Advanced Applications: Time Series, Recommenders, Natural Language.
