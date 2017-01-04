@@ -8,7 +8,7 @@ This repository contains notebooks used in DEEP LEARNING COURSE of the MASTER OF
 
 
 ## Course Agenda
-
+<ol type="1">
 <li> Feb, 14: Introduction to Deep Learning and its applications. Using the Jupyter notebook & Docker. Software stack.
 <li> Feb, 21: Basic Concepts: Score & Loss functions, SGD-based Optimization.
 <li> Feb, 28: Automated differentiation & Backpropagation, Training a Neural Netwotk from Scratch.
@@ -24,7 +24,7 @@ This repository contains notebooks used in DEEP LEARNING COURSE of the MASTER OF
 <li> May, 16: Convolutions & CNN models.
 <li> May, 23: Unsupervised Learning.
 <li> May, 30: Advanced Applications: Time Series, Recommenders, Natural Language.
-
+</ol>
 
 ## Course Software Installation
 
