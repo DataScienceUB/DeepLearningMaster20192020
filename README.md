@@ -6,6 +6,10 @@ output: jupyter_notebooks
 
 This repository contains notebooks used in DEEP LEARNING COURSE of the MASTER OF FUNDATIONS IN DATA SCIENCE of the Universitat de Barcelona.
 
+## Course Description
+
+Bla, bla.
+
 
 ## Course Agenda
 <ol type="1">
@@ -25,6 +29,8 @@ This repository contains notebooks used in DEEP LEARNING COURSE of the MASTER OF
 <li> May, 23: Unsupervised Learning.
 <li> May, 30: Advanced Applications: Time Series, Recommenders, Natural Language.
 </ol>
+
+
 
 ## Course Software Installation
 
