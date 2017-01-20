@@ -25,13 +25,13 @@ Location: Aula T1, Facultat de Matemàtiques i Informàtica, Universitat de Barc
 + Proficiency in Python: All class assignments will be in Python (using tensorflow). 
 + Calculus, Linear Algebra, Optimization: You should be comfortable taking derivatives and understanding matrix vector operations and notation.
 + Basic Probability and Statistics.
-+ Foundations of Machine Learning
++ Machine Learning.
 
 ## Grading
 
-Assignment #1: 30%
-Assignment #2: 30%
-Assignment #3: 40%
++ Assignment #1: 30%
++ Assignment #2: 30%
++ Assignment #3: 40%
 
 Study groups are allowed but we expect students to understand and complete their own assignments and to hand in one assignment per student.
 
