@@ -10,7 +10,7 @@ This repository contains notebooks used in DEEP LEARNING COURSE of the MASTER OF
 
 Deep learning is one of the fastest growing areas of machine learning and a hot topic in both academia and industry. This course will cover the basics of deep learning by using a hands-on approach.
 
-## Course Description
+## Course Instructor
 
 [Jordi Vitrià](http://www.ub.edu/cvub/jordivitria/)
 
@@ -26,6 +26,14 @@ Location: Aula T1, Facultat de Matemàtiques i Informàtica, Universitat de Barc
 + Calculus, Linear Algebra, Optimization: You should be comfortable taking derivatives and understanding matrix vector operations and notation.
 + Basic Probability and Statistics.
 + Foundations of Machine Learning
+
+## Grading
+
+Assignment #1: 30%
+Assignment #2: 30%
+Assignment #3: 40%
+
+Study groups are allowed but we expect students to understand and complete their own assignments and to hand in one assignment per student.
 
 ## Course Agenda
 <ol type="1">
