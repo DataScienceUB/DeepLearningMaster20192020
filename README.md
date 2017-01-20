@@ -41,13 +41,13 @@ Study groups are allowed but we expect students to understand and complete their
 <li> Feb, 21: Basic Concepts: Score & Loss functions, SGD-based Optimization.
 <li> Feb, 28: Automated differentiation & Backpropagation, Training a Neural Netwotk from Scratch.
 <li> March, 7: Tensorflow programming model. 
-<li> March, 14: Tensorflow ecosystem: Keras, TFLearn, Slim, Edward. 
+<li> March, 14: Tensorflow ecosystem: Keras, TFLearn, Slim, Edward. Assignment #1 (Image regression). 
 <li> March, 21: Recurrent Neural Netwoks I.
 <li> March, 28: Convolutions & CNN models I.
-<li> April, 4: 
+<li> April, 4: Assignment #2 (Language).
 <li> April, 18: 
 <li> April, 25: 
-<li> May, 2: Embeddings
+<li> May, 2: Embeddings. Assignment #3 (??).
 <li> May, 9: Reinformcement Learning
 <li> May, 16: Convolutions & CNN models.
 <li> May, 23: Unsupervised Learning.
