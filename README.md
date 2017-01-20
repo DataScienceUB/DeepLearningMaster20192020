@@ -14,6 +14,19 @@ Deep learning is one of the fastest growing areas of machine learning and a hot 
 
 [Jordi Vitrià](http://www.ub.edu/cvub/jordivitria/)
 
+## Class Time and Location
+
+2ond Semester (February - May, 2017)
+Lecture: Tuesday 15:00-17:00
+Location: Aula T1, Facultat de Matemàtiques i Informàtica, Universitat de Barcelona
+
+## Prerequisites
+
++ Proficiency in Python: All class assignments will be in Python (using tensorflow). 
++ Calculus, Linear Algebra, Optimization: You should be comfortable taking derivatives and understanding matrix vector operations and notation.
++ Basic Probability and Statistics.
++ Foundations of Machine Learning
+
 ## Course Agenda
 <ol type="1">
 <li> Feb, 14: Introduction to Deep Learning and its applications. Using the Jupyter notebook & Docker. Software stack.
