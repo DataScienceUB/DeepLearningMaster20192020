@@ -8,8 +8,7 @@ This repository contains notebooks used in DEEP LEARNING COURSE of the MASTER OF
 
 ## Course Description
 
-Bla, bla.
-
+Deep learning is one of the fastest growing areas of machine learning and a hot topic in both academia and industry. This course will cover the basics of deep learning by using a hands-on approach.
 
 ## Course Agenda
 <ol type="1">
