@@ -10,6 +10,10 @@ This repository contains notebooks used in DEEP LEARNING COURSE of the MASTER OF
 
 Deep learning is one of the fastest growing areas of machine learning and a hot topic in both academia and industry. This course will cover the basics of deep learning by using a hands-on approach.
 
+## Course Description
+
+[Jordi Vitrià](http://www.ub.edu/cvub/jordivitria/)
+
 ## Course Agenda
 <ol type="1">
 <li> Feb, 14: Introduction to Deep Learning and its applications. Using the Jupyter notebook & Docker. Software stack.
