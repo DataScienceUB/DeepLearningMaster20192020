@@ -17,7 +17,9 @@ Deep learning is one of the fastest growing areas of machine learning and a hot 
 ## Class Time and Location
 
 2ond Semester (February - May, 2017)
+
 Lecture: Tuesday 15:00-17:00
+
 Location: Aula T1, Facultat de Matemàtiques i Informàtica, Universitat de Barcelona
 
 ## Prerequisites
