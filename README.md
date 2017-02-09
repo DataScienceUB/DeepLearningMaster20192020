@@ -16,11 +16,9 @@ Deep learning is one of the fastest growing areas of machine learning and a hot 
 
 ## Class Time and Location
 
-2ond Semester (February - May, 2017)
-
-Lecture: Tuesday 15:00-17:00
-
-Location: Aula T1, Facultat de Matemàtiques i Informàtica, Universitat de Barcelona
++ 2ond Semester (February - May, 2017)
++ Lecture: Tuesday 15:00h-17:00h
++ Location: Aula B1, Facultat de Matemàtiques i Informàtica, Universitat de Barcelona.
 
 ## Prerequisites
 
@@ -39,21 +37,24 @@ Study groups are allowed but we expect students to understand and complete their
 
 ## Course Agenda
 <ol type="1">
-<li> Feb, 14: Introduction to Deep Learning and its applications. Using the Jupyter notebook & Docker. Software stack.
-<li> Feb, 21: Basic Concepts: Score & Loss functions, SGD-based Optimization.
-<li> Feb, 28: Automated differentiation & Backpropagation, Training a Neural Netwotk from Scratch.
-<li> March, 7: Tensorflow programming model. 
-<li> March, 14: Tensorflow ecosystem: Keras, TFLearn, Slim, Edward. Assignment #1 (Image regression). 
-<li> March, 21: Recurrent Neural Netwoks I.
-<li> March, 28: Convolutions & CNN models I.
-<li> April, 4: Assignment #2 (Language).
-<li> April, 18: 
-<li> April, 25: 
-<li> May, 2: Embeddings. Assignment #3 (??).
-<li> May, 9: Reinformcement Learning
-<li> May, 16: Convolutions & CNN models.
-<li> May, 23: Unsupervised Learning.
-<li> May, 30: Advanced Applications: Time Series, Recommenders, Natural Language.
+| Feb. 14 | Introduction to Deep Learning and its applications. Using the Jupyter notebook & Docker. Software stack. |
+| ------- | -------------------------------------------------------------------------------------------------------- |
+| Feb. 21 | Automated differentiation & Backpropagation, Training a Neural Network from Scratch.                     |
+| Feb. 28 | Tensorflow programming model. Dense Neural Networks.                                                     |
+| Mar. 7  | Tensorflow ecosystem: Keras, tf-contribution.                                                            |
+| Mar. 14 | Recurrent Neural Netwoks I.                                                                              |
+| Mar. 21 | Recurrent Neural Netwoks II.                                                                             |
+| Mar. 28 | Embeddings.                                                                                              |
+| Apr. 4  | Convolutional Neural Networks I.                                                                         |
+| Apr. 18 | Convolutional Neural Networks for Large Scale Learning.                                                  |
+| Apr. 25 | Invited Session: Microsoft CNTK.                                                                         |
+| May 2   | Unsupervised Learning I.                                                                                 |
+| May 9   | Unsupervised Learning II.                                                                                |
+| May 16  | Wide and Deep Learning.                                                                                  |
+| May 23  | DL for Recommenders.                                                                                     |
+| May 30  | Reinforcement Learning.                                                                                  |
+
+
 </ol>
 
 
