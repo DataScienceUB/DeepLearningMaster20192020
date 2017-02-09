@@ -4,7 +4,7 @@ output: jupyter_notebooks
 
 ## DeepLearningMaster Repository
 
-This repository contains notebooks used in DEEP LEARNING COURSE of the MASTER OF FUNDATIONS IN DATA SCIENCE of the Universitat de Barcelona.
+This repository contains notebooks used in DEEP LEARNING COURSE of the MASTER ON FOUNDATIONS OF DATA SCIENCE of the Universitat de Barcelona.
 
 ## Course Description
 
