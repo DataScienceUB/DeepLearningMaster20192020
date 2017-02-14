@@ -50,7 +50,7 @@ Study groups are allowed but we expect students to understand and complete their
 <li>  May 2 - Unsupervised Learning I.                                                                                 
 <li>  May 9 - Unsupervised Learning II.                                                                                
 <li>  May 16 - Wide and Deep Learning.                                                                                  
-<li>  May 23 - DL for Recommenders.                                                                                     
+<li>  May 23 - Deep Learning & Recommenders.                                                                                     
 <li>  May 30 - Reinforcement Learning.                                                                                  
 </ol>
 
