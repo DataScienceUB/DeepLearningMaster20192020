@@ -37,21 +37,21 @@ Study groups are allowed but we expect students to understand and complete their
 
 ## Course Agenda
 <ol type="1">
-<li> Feb. 14 - Introduction to Deep Learning and its applications. Using the Jupyter notebook & Docker. Software stack. 
-<li>  Feb. 21 - Automated differentiation & Backpropagation, Training a Neural Network from Scratch.                     
-<li>  Feb. 28 - Tensorflow programming model. Dense Neural Networks.                                                     
-<li>  Mar. 7  - Tensorflow ecosystem: Keras, tf-contribution.                                                            
-<li>  Mar. 14 - Recurrent Neural Netwoks I.                                                                              
-<li>  Mar. 21 - Recurrent Neural Netwoks II.                                                                             
-<li>  Mar. 28 - Embeddings.                                                                                              
-<li>  Apr. 4  - Convolutional Neural Networks I.                                                                         
-<li>  Apr. 18 - Convolutional Neural Networks for Large Scale Learning.                                                  
-<li>  Apr. 25 - Invited Session: Microsoft CNTK.                                                                         
-<li>  May 2 - Unsupervised Learning I.                                                                                 
-<li>  May 9 - Unsupervised Learning II.                                                                                
-<li>  May 16 - Wide and Deep Learning.                                                                                  
-<li>  May 23 - Deep Learning & Recommenders.                                                                                     
-<li>  May 30 - Reinforcement Learning.                                                                                  
+<li>  Feb. 14 - Introduction to Deep Learning and its applications. Using the Jupyter notebook & Docker. Software stack. 
+<li>  Feb. 21 - Basic concepts: learning from data.
+<li>  Feb. 28 - Automated differentiation & Backpropagation, Training a Neural Network from Scratch.                     
+<li>  Mar. 7 - Tensorflow programming model. Dense Neural Networks.                                                     
+<li>  Mar. 14  - Tensorflow ecosystem: Keras, tf-contribution.                                                            
+<li>  Mar. 21 - Recurrent Neural Netwoks I.                                                                              
+<li>  Mar. 28 - Recurrent Neural Netwoks II.                                                                             
+<li>  Apr. 4 - Embeddings.                                                                                              
+<li>  Apr. 18  - Convolutional Neural Networks I.                                                                         
+<li>  Apr. 25 - Convolutional Neural Networks for Large Scale Learning.                                                  
+<li>  May 2 - Invited Session: Microsoft CNTK.                                                                         
+<li>  May 9 - Unsupervised Learning I.                                                                                 
+<li>  May 16 - Unsupervised Learning II.                                                                                
+<li>  May 23 - Wide and Deep Learning.                                                                                  
+<li>  May 30 - Deep Learning & Recommenders.                                                                                     
 </ol>
 
 
