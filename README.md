@@ -29,9 +29,9 @@ Deep learning is one of the fastest growing areas of machine learning and a hot 
 
 ## Grading
 
-+ Assignment #1: 30%
-+ Assignment #2: 30%
-+ Assignment #3: 40%
++ Assignment #1: 30%. Submission deadline: March 31.  
++ Assignment #2: 30%. Submission deadline: 
++ Assignment #3: 40%. Submission deadline: 
 
 Study groups are allowed but we expect students to understand and complete their own assignments and to hand in one assignment per student.
 
