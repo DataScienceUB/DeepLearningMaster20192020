@@ -47,7 +47,7 @@ Study groups are allowed but we expect students to understand and complete their
 <li>  Apr. 4 - Embeddings.                                                                                              
 <li>  Apr. 18  - Convolutional Neural Networks I.                                                                         
 <li>  Apr. 25 - Convolutional Neural Networks for Large Scale Learning.                                                  
-<li>  May 2 - Invited Session: Microsoft CNTK.                                                                         
+<li>  May 2 - Invited Session: Microsoft CNTK. Online masterclass by Wolfgang Manousek (Deputy Director, European Microsoft Innovation Center @ Microsoft) about Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit (https://github.com/Microsoft/CNTK).
 <li>  May 9 - Unsupervised Learning I.                                                                                 
 <li>  May 16 - Unsupervised Learning II.                                                                                
 <li>  May 23 - Wide and Deep Learning.                                                                                  
