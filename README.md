@@ -30,7 +30,7 @@ Deep learning is one of the fastest growing areas of machine learning and a hot 
 ## Grading
 
 + Assignment #1: 30%. Submission deadline (UB Campus Virtual): March 31.  
-+ Assignment #2: 30%. Submission deadline (UB Campus Virtual): 
++ Assignment #2: 30%. Submission deadline (UB Campus Virtual): May 7.
 + Assignment #3: 40%. Submission deadline (UB Campus Virtual): 
 
 Study groups are allowed but we expect students to understand and complete their own assignments and to hand in one assignment per student.
