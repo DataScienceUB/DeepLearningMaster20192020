@@ -2,7 +2,7 @@
 output: jupyter_notebooks
 ---
 
-<div align="center">
+<div align="left">
         <img width="25%" src="deeplearninginside.png" alt="About screen" title="About screen"</img>
 </div>
 
