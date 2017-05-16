@@ -1,5 +1,5 @@
 <div align="left">
-        <img width="25%" src="deeplearninginside.png" alt="About screen" title="About screen"</img>
+        <img width="15%" src="deeplearninginside.png" alt="About screen" title="About screen"</img>
 </div>
 
 ## DeepLearningMaster Repository
