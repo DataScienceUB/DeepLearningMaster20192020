@@ -2,10 +2,6 @@
         <img width="25%" src="deeplearninginside.png" alt="About screen" title="About screen"</img>
 </div>
 
----
-output: jupyter_notebooks
----
-
 ## DeepLearningMaster Repository
 
 This repository contains notebooks used in DEEP LEARNING COURSE of the MASTER ON FOUNDATIONS OF DATA SCIENCE of the Universitat de Barcelona.
