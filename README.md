@@ -4,6 +4,10 @@ output: jupyter_notebooks
 
 <img src="deeplearninginside.png" alt="Drawing" style="width: 100px;"/>
 
+<div align="center">
+        <img width="45%" src="deeplearninginside.png" alt="About screen" title="About screen"</img>
+</div>
+
 
 ## DeepLearningMaster Repository
 
