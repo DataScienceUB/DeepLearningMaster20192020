@@ -1,11 +1,10 @@
----
-output: jupyter_notebooks
----
-
 <div align="left">
         <img width="25%" src="deeplearninginside.png" alt="About screen" title="About screen"</img>
 </div>
 
+---
+output: jupyter_notebooks
+---
 
 ## DeepLearningMaster Repository
 
