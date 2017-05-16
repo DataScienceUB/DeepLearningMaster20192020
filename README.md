@@ -2,6 +2,9 @@
 output: jupyter_notebooks
 ---
 
+<img src="deeplearninginside.png" alt="Drawing" style="width: 200px;"/>
+
+
 ## DeepLearningMaster Repository
 
 This repository contains notebooks used in DEEP LEARNING COURSE of the MASTER ON FOUNDATIONS OF DATA SCIENCE of the Universitat de Barcelona.
