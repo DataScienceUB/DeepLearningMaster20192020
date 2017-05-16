@@ -2,7 +2,7 @@
 output: jupyter_notebooks
 ---
 
-<img src="deeplearninginside.png" alt="Drawing" style="width: 200px;"/>
+<img src="deeplearninginside.png" alt="Drawing" style="width: 100px;"/>
 
 
 ## DeepLearningMaster Repository
