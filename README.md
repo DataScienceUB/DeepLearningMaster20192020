@@ -16,7 +16,7 @@ Deep learning is one of the fastest growing areas of machine learning and a hot 
 
 ## Class Time and Location
 
-+ 2ond Semester (February - May, 2017)
++ 2ond Semester (February - May, 2018)
 + Lecture: Tuesday 15:00h-17:00h
 + Location: Aula B1, Facultat de Matemàtiques i Informàtica, Universitat de Barcelona.
 
@@ -29,29 +29,28 @@ Deep learning is one of the fastest growing areas of machine learning and a hot 
 
 ## Grading
 
-+ Assignment #1: 30%. Submission deadline (UB Campus Virtual): March 31.  
-+ Assignment #2: 30%. Submission deadline (UB Campus Virtual): May 7.
++ Assignment #1: 30%. Submission deadline (UB Campus Virtual):   
++ Assignment #2: 30%. Submission deadline (UB Campus Virtual): 
 + Assignment #3: 40%. Submission deadline (UB Campus Virtual): 
 
 Study groups are allowed but we expect students to understand and complete their own assignments and to hand in one assignment per student.
 
 ## Course Agenda
 <ol type="1">
-<li>  Feb. 14 - Introduction to Deep Learning and its applications. Using the Jupyter notebook & Docker. Software stack. 
-<li>  Feb. 21 - Basic concepts: learning from data.
-<li>  Feb. 28 - Automated differentiation & Backpropagation, Training a Neural Network from Scratch.                     
-<li>  Mar. 7 - Tensorflow programming model. Dense Neural Networks.                                                     
-<li>  Mar. 14  - Tensorflow ecosystem: Keras, tf-contribution.                                                            
-<li>  Mar. 21 - Recurrent Neural Netwoks I.                                                                              
-<li>  Mar. 28 - Recurrent Neural Netwoks II.                                                                             
-<li>  Apr. 4 - Embeddings.                                                                                              
-<li>  Apr. 18  - Convolutional Neural Networks I.                                                                         
-<li>  Apr. 25 - Convolutional Neural Networks for Large Scale Learning.                                                  
-<li>  May 2 - Invited Session: Microsoft CNTK. Online masterclass by Wolfgang Manousek (Deputy Director, European Microsoft Innovation Center @ Microsoft) about Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit (https://github.com/Microsoft/CNTK).
-<li>  May 9 - Unsupervised Learning I.                                                                                 
-<li>  May 16 - No class.                                                                                
-<li>  May 23 - Unsupervised Learning II.                                                                                  
-<li>  May 30 - Deep Learning & Recommenders.                                                                                     
+<li>  Introduction to Deep Learning and its applications. Using the Jupyter notebook & Docker. Software stack. 
+<li>  Basic concepts: learning from data.
+<li>  Automated differentiation & Backpropagation, Training a Neural Network from Scratch.                     
+<li>  Tensorflow programming model. Dense Neural Networks.                                                     
+<li>  Tensorflow ecosystem: Keras, tf-contribution.                                                            
+<li>  Recurrent Neural Netwoks I.                                                                              
+<li>  Recurrent Neural Netwoks II.                                                                             
+<li>  Embeddings.                                                                                              
+<li>  Convolutional Neural Networks I.                                                                         
+<li>  Convolutional Neural Networks for Large Scale Learning.                                                  
+<li>  Unsupervised Learning I.                                                                                 
+<li>  No class.                                                                                
+<li>  Unsupervised Learning II.                                                                                  
+<li>  Deep Learning & Recommenders.                                                                                     
 </ol>
 
 
