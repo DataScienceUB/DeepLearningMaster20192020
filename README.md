@@ -57,7 +57,11 @@ Study groups are allowed but we expect students to understand and complete their
 
 ## Course Software Installation
 
-The best way to run the course software is to use a **Docker container**. There’s full documentation on installing Docker at ``docker.com``, but in a few words, the steps are:
+The best way to run the course software is to use a **Docker container**. 
+
+> A gentle introduction to docker: [How Docker Can Help You Become A More Effective Data Scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
+
+There’s full documentation on installing Docker at ``docker.com``, but in a few words, the steps are:
 
 + Go to ``docs.docker.com`` in your browser.
 + Step one of the instructions sends you to download Docker.
