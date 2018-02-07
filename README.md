@@ -22,7 +22,7 @@ Deep learning is one of the fastest growing areas of machine learning and a hot 
 
 ## Prerequisites
 
-+ Proficiency in Python: All class assignments will be in Python (using tensorflow). 
++ Proficiency in Python (3.6): All class assignments will be in Python (using ``tensorflow`` and ``keras``). 
 + Calculus, Linear Algebra, Optimization: You should be comfortable taking derivatives and understanding matrix vector operations and notation.
 + Basic Probability and Statistics.
 + Machine Learning.
@@ -76,16 +76,16 @@ Some good commands to try are ``docker version`` to check that you have the late
 Once Docker is installed, you can download the **image of this course** and download this git repository:
 
 + In a terminal, go to your course folder and run (This operation requires a good internet connection; it will take some minutes):  ``docker pull datascienceub/deepub``    
-        + MacOS & Linux: Run the ``deepub`` image on your system: ``docker run -it -p 8888:8888 -p 6006:6006 -v /$(pwd):/notebooks datascienceub/deepub``
-        + Windows: Run the ``deepub`` image on your system: ``docker run -it -p 8888:8888 -p 6006:6006 -v C:/your/course/folder:/notebooks datascienceub/deepub``
-+ Once these steps have been done, you can check the installation by starting your web browser and introducing this  URL: ``http://localhost:8888``.
-+ Open a new Jupyter notebook and execute this instruction in a code cell: ``!git clone https://github.com/DeepLearningUB/DeepLearningMaster``.
++ MacOS & Linux: Run the ``deepub`` image on your system: ``docker run -it -p 8888:8888 -p 6006:6006 -v /$(pwd):/notebooks datascienceub/deepub``
++ Windows: Run the ``deepub`` image on your system: ``docker run -it -p 8888:8888 -p 6006:6006 -v C:/your/course/folder:/notebooks datascienceub/deepub``
++ Once these steps have been done, you can check the installation by starting your web browser and introducing the referred URL.
++ Finally, to have the contents of this repository in your computer, open terminal from your browser and execute this instruction: ``git clone https://github.com/DeepLearningUB/DeepLearningMaster2018``.
 
 Next times, you can bring your local copy of the repository up to date:
 
 + Windows: In a terminal, go to your course folder and run the ``deepub`` image on your system: ``docker run -it -p 8888:8888 -p 6006:6006 -v C:/your/course/folder:/notebooks datascienceub/deepub``.
 + MacOS & Linux: In a terminal, go to your course folder and run the ``deepub`` image on your system: ``docker run -it -p 8888:8888 -p 6006:6006 -v /$(pwd):/notebooks datascienceub/deepub``
-+ Start your web browser and introduce this  URL: ``http://localhost:8888``.
++ Start your web browser and introduce the corresponding URL.
 + Open a new Jupyter notebook and execute this instruction in a code cell: ``!git pull https://github.com/DeepLearningUB/DeepLearningMaster``.
 
 
