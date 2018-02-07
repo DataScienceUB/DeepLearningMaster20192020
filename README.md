@@ -4,7 +4,7 @@
 
 ## DeepLearningMaster Repository
 
-This repository contains notebooks used in DEEP LEARNING COURSE of the [MASTER ON FOUNDATIONS OF DATA SCIENCE]([http://www.ub.edu/datascience/]) of the Universitat de Barcelona.
+This repository contains notebooks used in DEEP LEARNING COURSE of the [MASTER ON FOUNDATIONS OF DATA SCIENCE](http://www.ub.edu/datascience/) of the Universitat de Barcelona.
 
 ## Course Description
 
