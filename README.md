@@ -4,7 +4,7 @@
 
 ## DeepLearningMaster Repository
 
-This repository contains notebooks used in DEEP LEARNING COURSE of the [MASTER ON FOUNDATIONS OF DATA SCIENCE](http://www.ub.edu/datascience/) of the Universitat de Barcelona.
+This repository contains notebooks used in DEEP LEARNING COURSE of the [MASTER ON FOUNDATIONS OF DATA SCIENCE](http://www.ub.edu/datascience/master/) of the Universitat de Barcelona.
 
 ## Course Description
 
@@ -18,7 +18,7 @@ Deep learning is one of the fastest growing areas of machine learning and a hot 
 
 + 2ond Semester (February - May, 2018)
 + Lecture: Tuesday 15:00h-17:00h
-+ Location: Aula B1, Facultat de Matemàtiques i Informàtica, Universitat de Barcelona.
++ Location: Aula B1, Facultat de Matemàtiques i Informàtica, Universitat de Barcelona. [Map](https://www.google.es/maps/place/Gran+Via+de+les+Corts+Catalanes,+585,+08007+Barcelona/@41.3865736,2.1619408,17z/data=!3m1!4b1!4m5!3m4!1s0x12a4a28cbeee3689:0x4b4a8ba716765923!8m2!3d41.3865736!4d2.1641295?hl=ca).
 
 ## Prerequisites
 
