@@ -89,7 +89,7 @@ To run this image:
 Next times, if there are new contents in the repository, you can bring your local copy of the repository up to date:
 
 + Open a new Jupyter notebook and execute this instruction in a code cell: 
-!git pull https://github.com/DataScienceUB/DeepLearningMaster2018
+``!git pull https://github.com/DataScienceUB/DeepLearningMaster2018``
 
 
 
