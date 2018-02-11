@@ -41,7 +41,7 @@ Study groups are allowed but we expect students to understand and complete their
 <li>  Basic concepts: learning from data.
 <li>  Automated differentiation & Backpropagation, Training a Neural Network from Scratch.                     
 <li>  Tensorflow programming model. Dense Neural Networks.                                                     
-<li>  Tensorflow ecosystem: Keras, tf-contribution.                                                            
+<li>  Keras.                                                           
 <li>  Recurrent Neural Netwoks I.                                                                              
 <li>  Recurrent Neural Netwoks II.                                                                             
 <li>  Embeddings.                                                                                              
