@@ -82,7 +82,7 @@ Once Docker is installed, you can download the **image of this course** and down
 
 To run this image:
 
-+ Windows: In a terminal, go to your course folder and run the ``deepub`` image on your system: ``docker run -it -p 8888:8888 -p 6006:6006 -v C:/your/course/folder:/notebooks datascienceub/deepub``.
++ Windows: In a terminal, go to your course folder and run the ``deepub`` image on your system: ``docker run -it -p 8888:8888 -p 6006:6006 -v C:/your_course_folder:/notebooks datascienceub/deepub``.
 + MacOS & Linux: In a terminal, go to your course folder and run the ``deepub`` image on your system: ``docker run -it -p 8888:8888 -p 6006:6006 -v /$(pwd):/notebooks datascienceub/deepub``
 + Start your web browser and introduce the corresponding URL.
 
