@@ -48,9 +48,8 @@ Study groups are allowed but we expect students to understand and complete their
 <li>  Convolutional Neural Networks I.                                                                         
 <li>  Convolutional Neural Networks for Large Scale Learning.                                                  
 <li>  Unsupervised Learning I.                                                                                 
-<li>  No class.                                                                                
 <li>  Unsupervised Learning II.                                                                                  
-<li>  Deep Learning & Recommenders.                                                                                     
+<li>  Deep Reinforcement Learning.                                                                                     
 </ol>
 
 
