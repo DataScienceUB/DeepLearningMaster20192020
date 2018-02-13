@@ -74,7 +74,7 @@ Some good commands to try are ``docker version`` to check that you have the late
 
 Once Docker is installed, you can download the **image of this course** and download this git repository:
 
-+ In a terminal, go to your course folder and run (This operation requires a good internet connection; it will take some minutes):  ``docker pull datascienceub/deepub``    
++ In a terminal, go to your course folder and run (This operation requires a good internet connection; it will take some minutes):  ``docker clone datascienceub/deepub``    
 + MacOS & Linux: Run the ``deepub`` image on your system: ``docker run -it -p 8888:8888 -p 6006:6006 -v /$(pwd):/notebooks datascienceub/deepub``
 + Windows: Run the ``deepub`` image on your system: ``docker run -it -p 8888:8888 -p 6006:6006 -v C:/your_course_folder_path:/notebooks datascienceub/deepub``
 + Once these steps have been done, you can check the installation by starting your web browser and introducing the referred URL.
