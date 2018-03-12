@@ -93,7 +93,7 @@ Next times, if there are new contents in the repository, you can bring your loca
 
 ## Course Software Installation 
 
-Now (March 2018) you can develop deep learning applications with Google Colaboratory -on the free Tesla K80 GPU- using Keras and Tensorflow. 
+Now (March 2018) you can develop deep learning applications with Google Colaboratory (Colab) -on the free Tesla K80 GPU- using Keras and Tensorflow. Colab is a Google internal research tool for data science. They have released the tool sometime earlier to the general public with a noble goal of dissemination of machine learning education and research. 
 
 You can find more information in this blog: https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
 
