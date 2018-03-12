@@ -91,5 +91,9 @@ Next times, if there are new contents in the repository, you can bring your loca
 + Open a new Jupyter notebook and execute this instruction in a code cell: 
 ``!git pull https://github.com/DataScienceUB/DeepLearningMaster2018``
 
+## Course Software Installation 
 
+Now (March 2018) you can develop deep learning applications with Google Colaboratory -on the free Tesla K80 GPU- using Keras and Tensorflow. 
+
+You can find more information in this blog: https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
 
