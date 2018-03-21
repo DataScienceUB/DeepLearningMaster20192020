@@ -27,6 +27,8 @@ Deep learning is one of the fastest growing areas of machine learning and a hot 
 + Basic Probability and Statistics.
 + Machine Learning.
 
+If you are not used to Git, you can complete this free online git [course](https://try.github.io/levels/1/challenges/1)
+
 ## Grading
 
 + Assignment #1: 30%. Submission deadline (UB Campus Virtual):   **April 6th, 2018.**
