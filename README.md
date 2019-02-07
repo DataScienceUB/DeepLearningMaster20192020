@@ -54,11 +54,17 @@ Study groups are allowed but we expect students to understand and complete their
 <li>  Deep Reinforcement Learning.                                                                                     
 </ol>
 
+## Course Software Installation 
 
+You can develop deep learning applications with Google Colaboratory (Colab) -on the free Tesla K80 GPU- using Keras and Tensorflow. Colab is a Google internal research tool for data science. They have released the tool sometime earlier to the general public with a goal of dissemination of machine learning education and research. 
+
+You can find more information in this blogs: 
++ https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
++ https://medium.com/tensorflow/colab-an-easy-way-to-learn-and-use-tensorflow-d74d1686e309
 
 ## Course Software Installation
 
-The best way to run the course software is to use a **Docker container**. 
+You can run the course software using a **Docker container**. 
 
 > A gentle introduction to docker: [How Docker Can Help You Become A More Effective Data Scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
 
@@ -92,12 +98,4 @@ Next times, if there are new contents in the repository, you can bring your loca
 
 + Open a new Jupyter notebook and execute this instruction in a code cell: 
 ``!git pull https://github.com/DataScienceUB/DeepLearningMaster2019``
-
-## Course Software Installation 
-
-You can develop deep learning applications with Google Colaboratory (Colab) -on the free Tesla K80 GPU- using Keras and Tensorflow. Colab is a Google internal research tool for data science. They have released the tool sometime earlier to the general public with a goal of dissemination of machine learning education and research. 
-
-You can find more information in this blogs: 
-+ https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
-+ https://medium.com/tensorflow/colab-an-easy-way-to-learn-and-use-tensorflow-d74d1686e309
 
