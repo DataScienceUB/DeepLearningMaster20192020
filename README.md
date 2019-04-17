@@ -76,7 +76,7 @@ If you run a script which creates/ downloads files, the files will NOT persist a
 from google.colab import drive
 drive.mount('/content/gdrive', force_remount=True)
 root_dir = "/content/gdrive/My Drive/"
-base_dir = root_dir + 'fastai-v3/'
+base_dir = root_dir + 'masterUB/'
 ```
 
 Now, you may access your Google Drive as a file sytem using standard python commands to both read and write files. 
