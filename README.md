@@ -54,15 +54,38 @@ Study groups are allowed but we expect students to understand and complete their
 <li>  Deep Reinforcement Learning.                                                                                     
 </ol>
 
-## Course Software Installation 
+## Course Software Installation: Working in Colab
 
-You can develop deep learning applications with Google Colaboratory (Colab) -on the free Tesla K80 GPU- using Keras and Tensorflow. Colab is a Google internal research tool for data science. They have released the tool sometime earlier to the general public with a goal of dissemination of machine learning education and research. 
+You can develop deep learning applications with Google Colaboratory (Colab) -on the free Tesla K80 GPU- using Keras and Tensorflow. Colab is a Google internal research tool for data science. They have released the tool sometime earlier to the general public with a goal of dissemination of machine learning education and research. This is a free service that may not always be available, and requires extra steps to ensure your work is saved. Be sure to read the docs on the Colab web site to ensure you understand the limitations of the system.
 
-You can find more information in this blogs: 
+For accessing Colab, first of all you should sign in to you Google account if you are not signed in by default. You must do this step before opening Colab, otherwise the notebooks will not work. 
+
+Next, head on to the Colab Welcome Page (https://colab.research.google.com) and click on ‘Github’. In the ‘Enter a GitHub URL or search by organization or user’ line enter ‘https://github.com/DataScienceUB/DeepLearningMaster2019’. You will see all the courses notebooks listed there. Click on the one you are interested in using.
+
+You should see your notebook displayed now. Before running anything, you need to tell Colab that you are interested in using a GPU. You can do this by clicking on the ‘Runtime’ tab and selecting ‘Change runtime type’. A pop-up window will open up with a drop-down menu. Select ‘GPU’ from the menu and click ‘Save’.
+
+When you run the first cell, you will face a pop-up saying ‘Warning: This notebook was not authored by Google’; you should leave the default tick in the ‘Reset all runtimes before running’ check box and click on ‘Run Anyway’.
+
+If you opened a notebook from Github, you will need to save your work to Google Drive. You can do this by clicking on ‘File’ and then ‘Save’. 
+
+Click on ‘SAVE A COPY IN DRIVE’. This will open up a new tab with the same file, only this time located in your Drive. If you want to continue working after saving, use the file in the new tab. Your notebook will be saved in a folder called Colab Notebooks in your Google Drive by default.
+
+If you run a script which creates/ downloads files, the files will NOT persist after the allocated instance is shutdown. To save files, you need to permit your Colaboratory instance to read and write files to your Google Drive. Add the following code snippet at the beginning of every notebook.
+
+```python
+from google.colab import drive
+drive.mount('/content/gdrive', force_remount=True)
+root_dir = "/content/gdrive/My Drive/"
+base_dir = root_dir + 'fastai-v3/'
+```
+
+Now, you may access your Google Drive as a file sytem using standard python commands to both read and write files. 
+
+You can find more information in these blogs: 
 + https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
 + https://medium.com/tensorflow/colab-an-easy-way-to-learn-and-use-tensorflow-d74d1686e309
 
-## Course Software Installation
+## Course Software Installation: Working with Docker
 
 You can run the course software using a **Docker container**. 
 
