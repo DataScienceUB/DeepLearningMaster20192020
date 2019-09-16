@@ -15,25 +15,23 @@ Deep learning is one of the fastest growing areas of machine learning and a hot 
 [Jordi Vitrià](http://www.ub.edu/cvub/jordivitria/)
 
 ## Class Time and Location
-
-+ 2ond Semester (February - May, 2019)
-+ Lecture: Tuesday 15:00h-17:00h
-+ Location: Aula B1, Facultat de Matemàtiques i Informàtica, Universitat de Barcelona. [Map](https://www.google.es/maps/place/Gran+Via+de+les+Corts+Catalanes,+585,+08007+Barcelona/@41.3865736,2.1619408,17z/data=!3m1!4b1!4m5!3m4!1s0x12a4a28cbeee3689:0x4b4a8ba716765923!8m2!3d41.3865736!4d2.1641295?hl=ca).
++ First Semester (September, 2019 - January, 2020)
++ Lectures: Wednesday 17:00h-19:00h
++ Location: Aula B1, Facultat de Matemàtiques i Informàtica, Universitat de Barcelona.  [Map](https://www.google.es/maps/place/Gran+Via+de+les+Corts+Catalanes,+585,+08007+Barcelona/@41.3865736,2.1619408,17z/data=!3m1!4b1!4m5!3m4!1s0x12a4a28cbeee3689:0x4b4a8ba716765923!8m2!3d41.3865736!4d2.1641295?hl=ca).
 
 ## Prerequisites
 
-+ Proficiency in Python (3.6): All class assignments will be in Python (using ``tensorflow`` and ``keras``). 
-+ Calculus, Linear Algebra, Optimization: You should be comfortable taking derivatives and understanding matrix vector operations and notation.
++ Proficiency in Python (3.7): All class assignments will be in Python (using ``tensorflow`` and ``keras``). 
++ Calculus, Linear Algebra: You should be comfortable taking derivatives and understanding matrix vector operations and notation.
 + Basic Probability and Statistics.
-+ Machine Learning.
 
 If you are not used to Git, you can complete this free online git [course](https://try.github.io/levels/1/challenges/1)
 
 ## Grading
 
-+ Assignment #1: 30%. Submission deadline (UB Campus Virtual): **March 19th, 2019.**
-+ Assignment #2: 30%. Submission deadline (UB Campus Virtual): **April 20th, 2019.**
-+ Assignment #3: 40%. Submission deadline (UB Campus Virtual): **June 2nd, 2019**
++ Assignment #1: 30%. Submission deadline (UB Campus Virtual): **TBD**
++ Assignment #2: 30%. Submission deadline (UB Campus Virtual): **TBD**
++ Assignment #3: 40%. Submission deadline (UB Campus Virtual): **TBD**
 
 Study groups are allowed but we expect students to understand and complete their own assignments and to hand in one assignment per student.
 
