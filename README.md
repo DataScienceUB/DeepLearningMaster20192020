@@ -4,7 +4,7 @@
 
 ## DeepLearningMaster Repository
 
-This repository contains notebooks used in DEEP LEARNING COURSE of the [MASTER IN FUNDAMENTAL PRINCIPLES OF DATA SCIENCE](http://www.ub.edu/datascience/master/) of the Universitat de Barcelona.
+This repository contains notebooks used in 2019/2020 DEEP LEARNING COURSE of the [MASTER IN FUNDAMENTAL PRINCIPLES OF DATA SCIENCE](http://www.ub.edu/datascience/master/) of the Universitat de Barcelona.
 
 ## Course Description
 
