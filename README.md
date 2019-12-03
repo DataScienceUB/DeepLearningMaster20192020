@@ -31,7 +31,7 @@ If you are not used to Git, you can complete this free online git [course](https
 
 + Assignment #1: 30%. Submission deadline (UB Campus Virtual): **3/11/2019**
 + Assignment #2: 30%. Submission deadline (UB Campus Virtual): **8/12/2019**
-+ Assignment #3: 40%. Submission deadline (UB Campus Virtual): **TBD**
++ Assignment #3: 40%. Submission deadline (UB Campus Virtual): **10/01/2020**
 
 Study groups are allowed but we expect students to understand and complete their own assignments and to hand in one assignment per student.
 
